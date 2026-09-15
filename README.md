@@ -1,5 +1,7 @@
 # Practical Data Quality - Ressources formation
 
+Outils utilisés dans la formation Practical Data Quality dispensée par PwC Academy France : https://store.pwc.fr/fr/solutions/dataquality
+
 ## Liens outils : 
 * PowerBI : https://www.microsoft.com/fr-fr/download/details.aspx?id=58494
 * Talend Data Preparation (Windows) : [sha256:43147af98879c0544456d72e01b82ce0bd809c7f4413911eb2038d5c8ff46aa7](https://github.com/PwCAcademyFrance/PracticalDQ/releases/download/Main/Talend-DataPreparation-Free-Desktop-2.5.1.exe)
